@@ -1,0 +1,18 @@
+.ortala{
+    text-align: center;
+}
+.kirmizi_font{
+    color:red;
+}
+.biscuitfont{
+    color: rgb(201, 117, 14)
+}
+.listeice{
+    list-style-position: inside;
+}
+.pad45left{
+    padding-left: 45%;
+}
+.arkaplan{
+    background-color:rgb(253, 243, 243);
+}
